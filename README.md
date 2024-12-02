@@ -38,9 +38,9 @@ This project is a Streamlit application that allows users to search for videos o
 - `ffmpeg`
 
 ## File Structure
-├── app.py                  # Main application script
-├── requirements.txt        # List of dependencies
-├── README.md               # Project overview (this file)
+├── app.py                  
+├── requirements.txt        
+├── README.md              
 
 
 ## Usage
@@ -74,6 +74,9 @@ The downloaded videos and audio files will be saved in the following directories
 - Add support for downloading playlists.
 - Allow users to specify audio quality and format.
 - Add progress tracking for downloads and conversions.
+
+## Collaboration
+This project was done in collaboration with https://github.com/arnavtiet.
 
 ## Acknowledgments
 - **yt_dlp** for simplifying YouTube video and audio downloads.
