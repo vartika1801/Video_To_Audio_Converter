@@ -5,7 +5,7 @@ This project is a Streamlit application that allows users to search for videos o
 1. **Video Download**:
    - Search for videos on YouTube using a query.
    - Download a specified number of videos.
-   - 
+     
 2. **Audio Conversion**:
    - Convert downloaded videos into MP3 audio files.
 
